@@ -15,5 +15,10 @@ public class Calculator {
         int fiveMinusTwo = five - two;
         int fourTimeTwo = four * two;
         System.out.println(sixDivTwo + "\n" + fiveMinusTwo + "\n" + fourTimeTwo);
+
+        int size = 10;
+        size = 100;
+        size = size - 5;
+        System.out.println("size is " + size);
     }
 }
