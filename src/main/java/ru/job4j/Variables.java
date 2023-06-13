@@ -14,5 +14,6 @@ public class Variables {
         double distance;
         boolean permission;
         long sizeOfFile;
+        System.out.println("Переменные. [#172635]");
     }
 }
