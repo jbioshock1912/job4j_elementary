@@ -2,8 +2,17 @@ package ru.job4j;
 
 public class Variables {
     public static void main(String[] args) {
-        int age = 18;
+        int age = 18; //возраст
         float length = 78.0332F;
         boolean baby = true;
+
+        short ageOfPerson;
+        char gender;
+        float height;
+        short countOfBricks;
+        int countOfBacteria;
+        double distance;
+        boolean permission;
+        long sizeOfFile;
     }
 }
