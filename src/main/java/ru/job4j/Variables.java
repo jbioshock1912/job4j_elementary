@@ -6,11 +6,11 @@ public class Variables {
         float length = 78.0332F;
         boolean baby = true;
 
-        short ageOfPerson;
+        byte ageOfPerson;
         char gender;
         float height;
         short countOfBricks;
-        int countOfBacteria;
+        double countOfBacteria;
         double distance;
         boolean permission;
         long sizeOfFile;
