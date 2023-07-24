@@ -16,7 +16,7 @@ public class CheckingTypes {
 
         double d = 121.19;
         b = (byte) d;
-        System.out.println(withoutLoss + d);
+        System.out.println(loss + b);
 
         short s = 1500;
         char c = (char) s;
