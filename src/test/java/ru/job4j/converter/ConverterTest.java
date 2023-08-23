@@ -44,7 +44,7 @@ class ConverterTest {
     }
 
     @Test
-    void whenConvert05RblThen0Dlr() {
+    void whenConvert0Dot5RblThen0Dlr() {
         float in = 0.5F;
         float expected = (float) 0.0083;
         float out = Converter.rubleToDollar(in);
@@ -53,7 +53,7 @@ class ConverterTest {
     }
 
     @Test
-    void whenConvert05RblThen0Euro() {
+    void whenConvert0Dot5RblThen0Euro() {
         float in = 0.5F;
         float expected = (float) 0.0071;
         float out = Converter.rubleToEuro(in);
