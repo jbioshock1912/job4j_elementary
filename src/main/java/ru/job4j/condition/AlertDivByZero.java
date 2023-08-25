@@ -6,7 +6,7 @@ public class AlertDivByZero {
             System.out.println("Could not div by 0.");
         }
         if (number < 0) {
-            System.out.println("This is negative number" );
+            System.out.println("This is negative number.");
         }
     }
 
